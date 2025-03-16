@@ -1,4 +1,4 @@
-# lojavirtual
+# lojavirtual1
 
 Texto alterado no repositório local [2]
 
